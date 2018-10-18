@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "ManageApp",
+    "description": "Trying Redux and firebase in a simple management application in which you can add, delete and edit people. Choose the desired program and send a text message to the person. Redux & Firebase implementation ",
+    "slug": "ManageApppp",
+    "privacy": "public",
+    "sdkVersion": "30.0.0",
+    "platforms": ["ios", "android"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/schedule1.png",
+    "splash": {
+      "image": "./assets/schedule2.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
